@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my GitHub! 👋
 
 - 🔭 I’m currently working as Laboratory Analyst.
 - 🌱 I’m currently learning JavaScript, C/C++, HTML and CSS.
