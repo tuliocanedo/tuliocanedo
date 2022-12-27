@@ -1,5 +1,13 @@
 ### Hi there! Welcome to my GitHub! 👋
 
+I'm a Front-end Developer with bachelor in Engineering and an Electromechanical Technician course. I have a basic and advanced Computing Course (MS Office, Windows, Print Artist, Page Maker and Internet).  
+
+■ Experiences:
+    ⤷ Frontend (JavaScript, HTML, CSS, Git and GitHub).
+    ⤷ People Management.
+    ⤷ MS OFFICE (Excel, PowerPoint and Word).
+    ⤷ AutoCAD and Revit.
+
 - 🔭 I’m currently working as Laboratory Analyst.
 - 🌱 I’m currently learning JavaScript, C/C++, HTML and CSS.
 - 👯 I’m looking to collaborate on Front-end projects.
@@ -8,6 +16,12 @@
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/tuliocanedo/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I always line up crooked rugs on doors.
+
+
+You can find me on:
+E-mail: tuliocanedo@hotmail.com
+LinkedIn: https://www.linkedin.com/in/tuliocanedo
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuliocanedo/">
