@@ -4,6 +4,8 @@ I'm a Front-end Developer with bachelor in Engineering and an Electromechanical 
 
 ■ Experiences:
     ⤷ Frontend (JavaScript, HTML, CSS, Git and GitHub).
+    ⤷ C/C++ programming language
+    ⤷ Object-oriented programming language
     ⤷ People Management.
     ⤷ MS OFFICE (Excel, PowerPoint and Word).
     ⤷ AutoCAD and Revit.
