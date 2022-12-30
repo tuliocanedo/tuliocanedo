@@ -1,4 +1,4 @@
-### Hi there! Welcome to my GitHub! 👋
+### Hi there, my name is Túlio Cañedo! Welcome to my GitHub! 👋
 
 I'm a Front-end Developer with bachelor in Engineering and an Electromechanical Technician course. I have a basic and advanced Computing Course (MS Office, Windows, Print Artist, Page Maker and Internet).  
 
