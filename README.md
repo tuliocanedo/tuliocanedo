@@ -21,18 +21,20 @@ I'm a Front-end Developer with bachelor in Engineering and an Electromechanical 
 - ⚡ Fun fact: I always line up crooked rugs on doors.
 
 
-You can find me on:
+### You can find me on:
 E-mail: tuliocanedo@hotmail.com
 LinkedIn: https://www.linkedin.com/in/tuliocanedo
 
-
+### About my contributions
 <div align="center">
   <a href="https://www.linkedin.com/in/tuliocanedo/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliocanedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliocanedo&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=tuliocanedo&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
-<div style="display: inline_block"><br>
+
+### My Techs
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
