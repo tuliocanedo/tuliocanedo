@@ -3,12 +3,12 @@
 I'm a Front-end Developer with bachelor in Engineering and an Electromechanical Technician course. I have a basic and advanced Computing Course (MS Office, Windows, Print Artist, Page Maker and Internet).  
 
 ■ Experiences:
-    ⤷ Frontend (JavaScript, HTML and CSS).
-    ⤷ Git and GitHub.
+    ⤷ Frontend (JavaScript, HTML and CSS)
+    ⤷ Git and GitHub
     ⤷ C/C++ programming language
     ⤷ Object-oriented programming language
-    ⤷ People Management.
-    ⤷ MS OFFICE (Excel, PowerPoint and Word).
+    ⤷ People Management
+    ⤷ MS OFFICE (Excel, PowerPoint and Word)
     ⤷ AutoCAD and Revit.
 
 - 🔭 I’m currently working as Laboratory Analyst.
