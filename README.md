@@ -25,7 +25,7 @@ I'm a Front-end Developer with bachelor in Engineering and an Electromechanical 
   <a href="https://www.linkedin.com/in/tuliocanedo/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliocanedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliocanedo&layout=compact&langs_count=7&theme=dracula"/> <br>
-  <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=tuliocanedo&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=tuliocanedo"/>
 </div>
 
 ### My Techs
