@@ -12,7 +12,7 @@ I'm a Front-end Developer with bachelor in Engineering and an Electromechanical 
     ⤷ AutoCAD and Revit. <br>
 
 - 🔭 I’m currently working as Laboratory Analyst.
-- 🌱 I’m currently learning JavaScript, C/C++, HTML and CSS.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, C/C++ and ARDUINO.
 - 👯 I’m looking to collaborate on Front-end projects.
 - 🤔 I’m looking for help with all my knowledge (Hard Skills and Soft Skills).
 - 💬 Ask me about programming, robotics and automations.
