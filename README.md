@@ -15,7 +15,7 @@ I'm a Front-end Developer with bachelor in Engineering and an Electromechanical 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, C/C++ and ARDUINO.
 - 👯 I’m looking to collaborate on Front-end projects.
 - 🤔 I’m looking for help with all my knowledge (Hard Skills and Soft Skills).
-- 💬 Ask me about programming, robotics and automations.
+- 💬 Ask me about food science, programming, robotics and automations.
 - 📫 How to reach me: E-mail ( tuliocanedo@hotmail.com )
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I always line up crooked rugs on doors.
