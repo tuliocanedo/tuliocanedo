@@ -11,7 +11,7 @@ I'm a Front-end Developer with bachelor in Engineering and an Electromechanical 
     ⤷ MS OFFICE (Excel, PowerPoint and Word)<br>
     ⤷ AutoCAD and Revit. <br>
 
-- 🔭 I’m currently working as Laboratory Analyst.
+- 🔭 I’m currently working as Laboratory Analyst in a meat's industry.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, C/C++ and ARDUINO.
 - 👯 I’m looking to collaborate on Front-end projects.
 - 🤔 I’m looking for help with all my knowledge (Hard Skills and Soft Skills).
